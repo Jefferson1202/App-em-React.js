@@ -24,7 +24,7 @@
 * [Download Visual Studio Code](https://code.visualstudio.com/)
 
 # Wireframe
-![] (/Wireframe.png)
+![](/Wireframe.png)
 
 
 
