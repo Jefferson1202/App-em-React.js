@@ -10,7 +10,8 @@
 
 # Pacote utilizado no desenvolvimento
 * Node.js
-* ![Tutorial para instalação do Node](https://medium.com/@adsonrocha/como-instalar-o-node-js-no-windows-10-cf2bd460b8a8)
+* [Tutorial para instalação do Node](https://medium.com/@adsonrocha/como-instalar-o-node-js-no-windows-10-cf2bd460b8a8)
+* [Download Node](https://nodejs.org/en/download/)
 
 
 # IDE
