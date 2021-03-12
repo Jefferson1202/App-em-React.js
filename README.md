@@ -8,6 +8,8 @@
 # Framework utilizado
 * ReactJS
 * [Tutorial iniciando com ReactJS](https://www.visualdicas.com.br/programacao/react/78-como-instalar-e-utilizar-o-react-no-windows)
+#### O que o React?
+* O React é uma biblioteca JavaScript declarativa, eficiente e flexível para criar interfaces com o usuário. Ele permite compor UIs complexas a partir de pequenos e isolados códigos chamados “componentes”.
 
 # Pacote utilizado no desenvolvimento
 * Node.js
@@ -18,6 +20,9 @@
 * Visual Studio Code
 * Versão: 1.54.0 
 * [Download Visual Studio Code](https://code.visualstudio.com/)
+
+# Wireframe
+!
 
 
 
