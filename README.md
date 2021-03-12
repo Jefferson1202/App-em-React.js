@@ -26,7 +26,7 @@
 # Wireframe
 ![Wireframe](/Wireframe.png)
 # Página Web
-![](/screenshot)
+![PaginaWeb](/screenshot.png)
 
 
 
