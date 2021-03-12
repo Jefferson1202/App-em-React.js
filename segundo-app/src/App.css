@@ -1,0 +1,10 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100vh;
+  background-image: url(./componentes/HomePage/og-learning-path-react.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}

@@ -1,0 +1,18 @@
+.card-container {
+    
+    border-radius: 9px;
+    width: 250px;
+    height:  250px;
+    background-image: url(./header.jpg);
+    margin: 10px;
+    padding: 10px;
+
+}
+
+
+
+.imagem1{
+    width: 247px;
+    height: 100px;
+    margin: 1px;
+}
