@@ -7,7 +7,7 @@
 
 # Framework utilizado
 * ReactJS
-* [Iniciando com ReactJS](https://www.visualdicas.com.br/programacao/react/78-como-instalar-e-utilizar-o-react-no-windows)
+* [Tutorial iniciando com ReactJS](https://www.visualdicas.com.br/programacao/react/78-como-instalar-e-utilizar-o-react-no-windows)
 
 # Pacote utilizado no desenvolvimento
 * Node.js
